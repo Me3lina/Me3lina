@@ -1,6 +1,6 @@
 ### Hey there!
 
-- 👋 Welcome, I’m @Me3lina for Melina Romero 
+- 👋 Welcome, I’m Meli
 - 👀 I’m interested in ... GIS and coding in JS is a must for GEE
 - 🌱 I’m currently learning a lot of things but mainly the Remote Sensing tools
 - 💞️ I’m looking to collaborate on urbanism and enviromental projects as designer
