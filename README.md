@@ -3,7 +3,7 @@
 - 👋 Welcome, I’m Melina
 - 👀 I’m interested in GIS and coding in JS is a must for GEE
 - 🌱 I’m currently learning a lot of things but mainly the Remote Sensing tools
-- 🌷 I’m looking to collaborate on urbanism and enviromental projects as designer
+- 🌷 I’m looking to collaborate on urbanism and environmental projects as a designer
 - ⚡ Fun fact: I love alfajores with dulce de leche and I can walk kilometers to get one.
 
   😊 Creative & curious human being 😄
