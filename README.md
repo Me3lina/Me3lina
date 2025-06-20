@@ -1,6 +1,6 @@
 ## Hey there!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&width=470&lines=Hello+word!;Keep+learning+:)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&width=470&lines=Smile+at+the+future!; Keep+learning+:)" alt="Typing SVG" /></a>
 </div>
 
 - 👋 Welcome, I’m Melina
