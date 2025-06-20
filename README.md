@@ -1,5 +1,8 @@
 ## Hey there!
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&width=470&lines=Full+stack+web+developer;Estudiando+ciencias+de+la+computacion;Tecnico+en+computacion" alt="Typing SVG" /></a>
+</div>
+
 - 👋 Welcome, I’m Melina
 - 👀 I’m interested in GIS and coding in JS is a must for GEE
 - 🌱 I’m currently learning a lot of things but mainly the Remote Sensing tools
