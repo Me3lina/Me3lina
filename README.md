@@ -2,11 +2,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=150&color=FF00FF&speed=50&center=true&width=470&lines=Smile+at+the+future!;Keep+learning+:)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=300&color=FF00FF&speed=150&center=true&width=470&lines=Smile+at+the+future!;Keep+learning+:)" alt="Typing SVG" />
   </a>
 </div>
 
-- 👋 Welcome, I’m Melina
+- 👋 Welcome, I’m Melina Romero
 - 👀 I’m interested in GIS and coding in JS is a must for GEE
 - 🌱 I’m currently learning a lot of things but mainly the Remote Sensing tools
 - 🌷 I’m looking to collaborate on urbanism and environmental projects as a designer
