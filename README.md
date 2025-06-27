@@ -9,9 +9,9 @@ Raised under the sunny skies of Córdoba
 </div>
 
 - 👋 Welcome, I’m Melina Romero
-- 👀 I’m interested in GIS and coding in JS is a must for GEE
+- 👀 I’m interested in **GIS** and coding in JS is a must for GEE
 - 🌱 I’m currently learning a lot of things but mainly the Remote Sensing tools
-- 🌷 I’m looking to collaborate on urbanism and environmental projects as a designer
+- 🌷 I’m looking to collaborate on **urbanism and environmental projects** as a designer/architect-urbanist
 - ⚡ Fun fact: I love alfajores with dulce de leche and I can walk kilometers to get one.
 
   😊 Creative & curious human being 😄
