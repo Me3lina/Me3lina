@@ -1,7 +1,7 @@
 ## Hey there! 
-☀️ Cordoba sunny sky 
+☀️ The sunny skies of Córdoba 
 
-![I am Ma. Nikka S. Herrera ](https://github.com/Me3lina/Me3lina/blob/main/1740073667546.jpg)
+![ ](https://github.com/Me3lina/Me3lina/blob/main/1740073667546.jpg)
 
 
 <div align="center">
