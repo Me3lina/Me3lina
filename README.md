@@ -1,5 +1,5 @@
 ![ ](https://github.com/Me3lina/Me3lina/blob/main/1740073667546.jpg)
-☀️ Raised under the sunny skies of Córdoba ☀️
+Raised under the sunny skies of Córdoba ☀️
 
 ## Hey there! 
 <div align="center">
