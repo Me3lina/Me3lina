@@ -1,5 +1,8 @@
 ## Hey there!
 
+![I am Ma. Nikka S. Herrera ](https://github.com/Me3lina/Me3lina/blob/main/Screenshot_7.jpg))
+
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=300&color=FF00FF&speed=150&center=true&width=470&lines=Smile+at+the+future!;Keep+learning+:)" alt="Typing SVG" />
